@@ -1,4 +1,5 @@
 # hello-world
 A repository for learning
-This is my change I hope you like it
-more changed
+This is adding a new greeting to the hello world.
+Hi
+Bye
